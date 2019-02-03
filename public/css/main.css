@@ -1,0 +1,17 @@
+body {
+  font-family: 'MedievalSharp', cursive;
+}
+
+h1 {
+  font-family: 'MedievalSharp', cursive;
+  font-size: 25px;
+}
+
+#army-list {
+  font-family: 'MedievalSharp', cursive;
+}
+
+.item {
+  font-family: 'MedievalSharp', cursive;
+  background-image: url('wall.jpeg');
+}
